@@ -9,5 +9,5 @@ app.get("/", (req, res)=>{
 
 app.listen(port, ()=>{
     console.log(`Docker Node app on listening on port ${port}`)
-    console.log("Let's get started!!!)
+    console.log("Let's get started!!!")
 })
